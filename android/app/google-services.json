@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "65322737398",
+    "project_id": "bookstation-88c6c",
+    "storage_bucket": "bookstation-88c6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65322737398:android:d62be9b250eab80c8856d7",
+        "android_client_info": {
+          "package_name": "com.example.book_station"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65322737398-sh33ms3dcnvbs44hdvqod69mrfdp5t2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.book_station",
+            "certificate_hash": "4d975199ec25961a2a792d621ed8707b3043c174"
+          }
+        },
+        {
+          "client_id": "65322737398-qfa9adtfat0fr5p70nvfaoivfj3fdvvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAne4bhBuD7lLtPpG5T54Q8OAagTIXjTZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65322737398-qfa9adtfat0fr5p70nvfaoivfj3fdvvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
