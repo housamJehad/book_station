@@ -382,7 +382,7 @@ class _EmailPassScreenState extends State<EmailPassScreen> {
         validStdNumVisibility = true;
         validStdNum = true;
         validStdNumColor = MyColors.hardGreen;
-        validStdNumText = "Valid username";
+        validStdNumText = "Valid Student number";
       });
     } else {
       setState(() {
